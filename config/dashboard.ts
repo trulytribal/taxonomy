@@ -31,11 +31,6 @@ export const dashboardConfig: DashboardConfig = {
       disabled: true,
     },
     {
-      title: "Billing",
-      href: "/dashboard/billing",
-      icon: "billing",
-    },
-    {
       title: "Settings",
       href: "/dashboard/settings",
       icon: "settings",
