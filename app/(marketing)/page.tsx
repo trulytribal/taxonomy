@@ -40,11 +40,10 @@ export default async function IndexPage() {
         <Image src={hero} width={250} alt="Hero image" priority />
         <div className="mx-auto flex flex-col items-start gap-4 lg:w-[52rem]">
           <h1 className="text-3xl font-bold leading-[1.1] tracking-tighter sm:text-5xl md:text-6xl">
-            What&apos;s going on here?
+            Welcome to my tool hub
           </h1>
           <p className="max-w-[42rem] leading-normal text-slate-700 sm:text-xl sm:leading-8">
-            I&apos;m building a web app with Next.js 13 and open sourcing
-            everything. Follow along as we figure this out together.
+            I&apos;m building a web app of tools that I use day to day and I want to share. Sign up to use my tools and beta test them in your account.
           </p>
         </div>
         <div className="flex gap-4">
